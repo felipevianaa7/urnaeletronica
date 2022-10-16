@@ -1,7 +1,7 @@
 ## <p> # Projeto Urna Eletrônica</p>
 ## Projeto desenvolvido para fazer uma apresentação junto com meus educandos para simular uma votação eleitoral.
 Para preservar a imagem deles eu troquei e deixei apenas de dois candidatos como exemplo
-OBS: Os arquivos de imagens estão no diretório do meu pendrive, para testar é só trocar para o local em que foi baixado.
+<p> OBS: Os arquivos de imagens estão no diretório do meu pendrive, para testar é só trocar para o local em que foi baixado.</p>
 
 ## <p style="color: #eaeaea; font-weight: bold;">Tecnologias Utilizadas:</p>
 - VBA
