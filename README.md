@@ -28,6 +28,7 @@ Para preservar a imagem deles eu troquei e deixei apenas de dois candidatos como
 
 ## <p>Layout</p>
 
-## <p style="width: 600px; height: 1200px; padding-top: 30px;">![Urna](https://user-images.githubusercontent.com/53532151/194973217-cc5b13be-c6bc-473c-807e-f111a5bbd34f.png)</p>
+## <p style="width: 600px; height: 1200px; padding-top: 30px;">![Captura de tela 2023-06-14 201647](https://github.com/felipevianaa7/urnaeletronica/assets/53532151/63c127fe-465f-45c4-8cbd-e50ad12dff48)
+</p>
 
 
