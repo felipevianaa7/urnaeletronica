@@ -4,6 +4,7 @@ Para preservar a imagem deles eu troquei e deixei apenas de dois candidatos como
 <p> OBS: Para facilitar a localização dos arquivos de imagem e áudio que o sistema vai pedir, deixe em uma pasta em "Documentos"
 
  ** Para executar a urna eletrônica:
+ 
   Abra o arquivo do Excel
   
   Com o arquivo aberto aperte Alt + F11
@@ -20,6 +21,7 @@ Para preservar a imagem deles eu troquei e deixei apenas de dois candidatos como
 
   Feito isso é só clicar duas vezes no arquivo carregado UserForm1.frm e apertar no "Play" e pronto 
 
+  
   
 .</p>
 
